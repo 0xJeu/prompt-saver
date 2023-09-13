@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Output of build tools
+dist/
+build/
+out/
+output/
+bin/
+coverage/
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
